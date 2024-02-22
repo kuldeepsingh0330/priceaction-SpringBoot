@@ -12,6 +12,11 @@ Welcome to the Spring Boot Backend Project repository! This project serves as th
 - **Advanced Automation:** Implements automated order modifications and dynamic adjustments to stop-loss orders based on real-time market movements.
 - **Scalability and Performance:** Ensures scalability and performance optimization to handle high volumes of trading activities and concurrent user requests.
 
+## Database Schema
+
+![er](https://github.com/kuldeepsingh0330/priceaction-SpringBoot/assets/95225751/5803e208-dace-4df4-9822-681e50ee457a)
+
+
 ## Usage
 
 The Spring Boot backend provides the necessary infrastructure for executing trades, processing webhooks, and managing user portfolios. It operates in conjunction with the Android frontend to deliver a seamless trading experience for users.
