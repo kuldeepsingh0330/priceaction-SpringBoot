@@ -1,5 +1,7 @@
 # Spring Boot Backend Project
 
+
+
 ## Introduction
 
 Welcome to the Spring Boot Backend Project repository! This project serves as the backend component of the Price Action application, facilitating seamless communication between the frontend interface and the Upstox API for efficient execution of stock orders.
