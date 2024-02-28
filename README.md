@@ -21,6 +21,7 @@ Welcome to the Spring Boot Backend Project repository! This project serves as th
 
 ## Usage
 
+
 The Spring Boot backend provides the necessary infrastructure for executing trades, processing webhooks, and managing user portfolios. It operates in conjunction with the Android frontend to deliver a seamless trading experience for users.
 
 ## Contributing
