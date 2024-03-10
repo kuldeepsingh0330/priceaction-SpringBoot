@@ -16,7 +16,6 @@ public class BuySellController {
     @Autowired
     private BuySellService buyService;
 
-
     @PostMapping("/buysell/{token}")
     public void buysellStock(@RequestBody String req, @PathVariable String token){
         buyService.buysellStockService(req, token);
